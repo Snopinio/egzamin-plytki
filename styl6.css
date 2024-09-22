@@ -1,0 +1,41 @@
+*{
+    font-family: Verdana;
+}
+
+header > div{
+    background-color:  #6F79A8;
+    color: white;
+    height: 140px;
+    float: left;
+}
+div#logo {
+    width: 30%;
+}
+div#tytul {
+    width: 70%;
+}
+main > div:hover {
+    background-color: #6F79A8;
+    color: white;
+}
+main > div {
+    background-color:  #9FA8DA;
+    width: 160px;
+    height: 85px;
+    margin: 5px;
+    border: solid, #6F79A8, 1px;
+    overflow: hidden;
+    float: left;
+}
+
+footer{
+    clear: both;
+    background-color: #6F79A8;
+    color: white;
+    padding: 5px;
+    text-align: right;
+}
+
+h6{
+    text-align: center;
+}
